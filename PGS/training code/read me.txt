@@ -1,0 +1,5 @@
+'train_single_rule' means this code is for configurations who have one set of rule: 'Center, 2*2 Grid, 3*3 Grid'
+
+'train_pair_rule' means this code is for configurations who have two sets of rules: 'L-R, U-D, O-IC, O-IG'
+
+'parallel' and 'serial' refers to the generation scheme in the generation module (S3)
